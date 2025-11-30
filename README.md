@@ -20,7 +20,7 @@ gcc -o livelock part2b_livelock.c -pthread
 
 ./deadlock 2
 ./livelock 2
-
+```
 
 ## What Each File Does
 part2a_101236784_101272210.c – unsynchronized version (race conditions)
