@@ -1,5 +1,8 @@
 # SYSC4001_A3P2
 
+### Jared St.Louis 101236784 & Zachary Gallant 101272210
+
+
 This project simulates multiple TAs marking exams at the same time using shared memory and semaphores. Part 2a shows what happens without any synchronization (race conditions), and Part 2b fixes everything using semaphores. There are also two small demo programs that show deadlock and livelock.
 
 ## How to Run
